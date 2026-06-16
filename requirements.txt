@@ -1,0 +1,6 @@
+numpy
+torch
+jax
+optax
+matplotlib
+pytest

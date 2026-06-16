@@ -1,0 +1,37 @@
+Sample generations (prompt "ROMEO:", temperature 0.8), ~3.4M params,
+3,000 steps on TinyShakespeare. Output is Shakespeare-shaped but not
+coherent, which is expected at this scale.
+
+=== PyTorch ===
+ROMEO: there's the wanton sweet fellow,
+Are it a fool or an oothway with the fire
+Of excellent flower of his thoughts:
+Here comes the Velbutua's lost the curst,
+Unshed the sea-up with a slaves, our song,
+And sent the glict, and still without a tear
+As art the flower flatterers on the flaw
+Of mine own coats with calumny rich,
+Dreams your souls that even was it wail'd
+From which you are in our inpeaced, as it is,
+As I have had please to live to put in
+That will make your highness to
+
+=== JAX (with dropout, single device) ===
+ROMEO: we have some good to make us first
+To thus all reckeems and their favours fouls
+Against us welcome with our own desires.
+
+Second Citizen:
+You are at friends, what are he were as so?
+
+Third Citizen:
+Why with Corioli, you must die insulting;
+To save him for us.
+
+CORIOLANUS:
+Call thee, you that stood now?
+
+Third Senator:
+Show the tribunes of your prisoners,
+Are you appointain'd backing in the present?
+The people will give your punishmity.
